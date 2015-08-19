@@ -1,0 +1,8 @@
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\bin\Release\LusorionAchievements.dll
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\bin\Release\LusorionAchievements.pdb
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\obj\Release\LusorionAchievements.dll
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\obj\Release\LusorionAchievements.pdb
+C:\Users\XeRi\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\bin\Release\MySql.Data.dll
+C:\Users\XeRi\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\bin\Release\MySql.Data.Entity.dll
+C:\Users\XeRi\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\bin\Release\MySql.Web.dll
+C:\Users\XeRi\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\obj\Release\LusorionAchievements.csprojResolveAssemblyReference.cache

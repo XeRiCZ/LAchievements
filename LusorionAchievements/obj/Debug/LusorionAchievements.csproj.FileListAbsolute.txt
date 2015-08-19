@@ -1,0 +1,5 @@
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\bin\Debug\LusorionAchievements.dll
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\bin\Debug\LusorionAchievements.pdb
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\obj\Debug\LusorionAchievements.csprojResolveAssemblyReference.cache
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\obj\Debug\LusorionAchievements.dll
+c:\users\xeri\documents\visual studio 2012\Projects\LusorionAchievements\LusorionAchievements\obj\Debug\LusorionAchievements.pdb
